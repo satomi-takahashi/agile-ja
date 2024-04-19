@@ -15,7 +15,7 @@ def convert_fahrenheit_to_celsius():
 def main():
     convert_celsius_to_fahrenheit()
     convert_fahrenheit_to_celsius()
-    user_input == input()
+    user_input = input()
     if user_input == "c":
         convert_celsius_to_fahrenheit
     elif user_input == "f":
@@ -23,7 +23,7 @@ def main():
     else: 
         print("Invalid input. Please try again.")
     
-    
+
 
 main()
 
