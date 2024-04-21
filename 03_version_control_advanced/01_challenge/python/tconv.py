@@ -12,7 +12,7 @@ def convert_fahrenheit_to_celsius():
     celsius = 5/9 * ( fehrenheit - 32)
     print(f"The Fehrenheit temprature {fehrenheit} you entered is {celsius} in Celsius.")
 
-def main()
+def main():
     print("Enter c if you wnat to convert from Fahrenheit to Celsius")
     print("Enter f if you want to convert from Celsius to Fahrenheit")
     user_input = input()
