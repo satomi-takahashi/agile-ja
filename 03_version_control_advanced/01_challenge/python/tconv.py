@@ -26,11 +26,3 @@ def main():
         print("Incorrect input. Please try again later")
     
 main()
-
-
-def main():
-    convert_fahrenheit_to_celsius
-    convert_celsius_to_fahrenheit
-
-
-main()
